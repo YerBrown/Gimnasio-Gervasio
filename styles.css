@@ -1,0 +1,31 @@
+
+table {
+    width: 800px;
+    border-collapse: collapse ;
+    border: 1px solid black;
+    text-align: left;
+    table-layout: fixed;
+    font-family:sans-serif;
+    line-height:20px;
+    
+}
+th {
+    background-color: rgb(240, 240, 240);
+}
+
+th,
+td {
+    padding: 10px 5px;;
+}
+p{
+    margin: 0;
+    
+}
+nav {
+    font-size: 20px;
+    padding: 10px;
+}
+img,
+video {
+    width: 500px;
+}
