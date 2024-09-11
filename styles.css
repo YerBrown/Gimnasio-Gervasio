@@ -1,4 +1,6 @@
-
+body {
+    background-color: rgb(23, 137, 244);
+}
 table {
     width: 800px;
     border-collapse: collapse ;
@@ -7,7 +9,7 @@ table {
     table-layout: fixed;
     font-family:sans-serif;
     line-height:20px;
-    
+    background-color: white;
 }
 th {
     background-color: rgb(240, 240, 240);
@@ -28,4 +30,16 @@ nav {
 img,
 video {
     width: 500px;
+    border: 5px double white;
+}
+h1,
+h2,
+a {
+color: white;
+font-family: sans-serif;
+
+}
+
+a {
+    
 }
